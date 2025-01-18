@@ -98,13 +98,13 @@ Include screenshots demonstrating the website’s layout on different screen siz
 Below are the screenshots of the portfolio website:
 
 ### Desktop View
-![Desktop Screenshot](./images/desktop-view.png "Desktop View")
+![Desktop Screenshot](./screenSnapshot/desktop-view.png "Desktop View")
 
 ### Tablet View
-![Tablet Screenshot](./images/tablet-view.png "Tablet View")
+![Tablet Screenshot](./screenSnapshot/tablet-view.png "Tablet View")
 
 ### Mobile View
-![Mobile Screenshot](./images/mobile-view.png "Mobile View")
+![Mobile Screenshot](./screenSnapshot/mobile-view.png "Mobile View")
 
 
 ## Demo Link
