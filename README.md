@@ -94,6 +94,18 @@ Check out the live website here: [Live Demo](https://html-css-js-portfolio-beryl
 
 ## Screenshots
 Include screenshots demonstrating the website’s layout on different screen sizes (desktop, tablet, and mobile).
+## Screenshots
+Below are the screenshots of the portfolio website:
+
+### Desktop View
+![Desktop Screenshot](./images/desktop-view.png "Desktop View")
+
+### Tablet View
+![Tablet Screenshot](./images/tablet-view.png "Tablet View")
+
+### Mobile View
+![Mobile Screenshot](./images/mobile-view.png "Mobile View")
+
 
 ## Demo Link
 If hosted online, provide the link here.
